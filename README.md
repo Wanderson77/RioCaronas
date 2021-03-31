@@ -51,18 +51,18 @@
 + AppIndex
 + AdMob
 
-## Dev Tools Experience
+## Dev Tools Experience (Feat)
 
++ TypeScript | JavaScript
 + VSCode
-+ Figma
-+ Storybook
-+ Material UI
-+ TypeScript
++ CI | CD (App Center / GitHub Actions)
++ Docker | Kubernetes
++ ServerLess (AWS)
++ Insomnia | Postman
++ GraphQL | API Rest
 
 ## Monetização
 
 + In App Purchase
-
-:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 Feito com 💖 by Wanderson Aldo [Keep Coding !!!!]
