@@ -38,7 +38,6 @@
 
 ## JS Features
 
-+ TDD / Jest / Enzime
 + Hooks
 
 ## Firebase Features
